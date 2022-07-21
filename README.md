@@ -1,10 +1,44 @@
-- 👋 Hi, I’m @Mehrshadre
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Mehrshadre/Mehrshadre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Hi there, I'm Seyed Mostafa Atyabi
+
+- I’m a computer student at Shahid Beheshti University in Tehran 
+- I’m interested in robotics and artificial intelligence
+- I’m currently learning ML with python
+
+
+### Tools & Technlogies
+<a ><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+<a ><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a ><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+
+
+
+
+## Github Stats
+![Mostafa_Stats](https://github-readme-stats.vercel.app/api?username=Mehrshadre&theme=radical&show_icons=true&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrshadre&layout=compact&theme=radical&count_private=true)](https://github.com/seyed-mostafa/github-readme-stats)
+
+
+<!-- 
+### Github Streaks
+![Mostafa_Streaks](http://github-readme-streak-stats.herokuapp.com/?user=Mehrshadre&theme=radical) -->
+
+
+## ✉️ Find me on:
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/seyed-mostafa-atyabi" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://https://t.me/seyedm0stafa" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/ios/50/000000/telegram-app.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mostafa.atyabi.1380@gmail.com"> <img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+<br />
+
+
+
+
+
