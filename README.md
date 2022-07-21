@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Seyed Mostafa Atyabi
+# Hi there, I'm Mehrshad Rezaali
 
 - I’m a computer student at Shahid Beheshti University in Tehran 
 - I’m interested in robotics and artificial intelligence
